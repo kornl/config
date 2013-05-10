@@ -1,2 +1,2 @@
 LANGUAGE=en
-export R_HISTFILE=~/.Rhistory
+R_HISTFILE=~/.Rhistory
