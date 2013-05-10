@@ -1,0 +1,2 @@
+LANGUAGE=en
+export R_HISTFILE=~/.Rhistory
