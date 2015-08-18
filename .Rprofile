@@ -2,7 +2,7 @@
 
 local({
   r <- getOption("repos")
-  r["CRAN"] <- "http://ftp5.gwdg.de/pub/misc/cran/"
+  r["CRAN"] <- "https://cran.rstudio.com/"
   options(repos = r)
   ## (for Unix terminal users) set the width from COLUMNS if set
   cols <- Sys.getenv("COLUMNS")
